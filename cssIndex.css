@@ -1,0 +1,33 @@
+ 
+    body {
+        margin: 20px; 
+        display: flex;
+        background-color:rgb(73, 65, 66); 
+    }
+        
+    
+    #meio{
+        background-color: rgb(38, 38, 38);
+        display: block;
+        text-align: center;
+        margin: auto; 
+        color: aliceblue;
+        width: 1000px;
+        height: 1800px;
+        
+    } 
+    #img {
+        width: 400px;
+        height: 400px;
+    } 
+    a {
+        color: aqua;
+    } 
+
+    li {
+        font-size: 20px;
+    } 
+    .icon {
+        height:120px ;
+        padding: right 10px; 
+    }
